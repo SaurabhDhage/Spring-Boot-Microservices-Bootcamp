@@ -1,0 +1,11 @@
+my:
+   msg: Hello World from spring cloud config server
+   details: welcome to spring world ${my.msg}
+   list: abc,xyz,sfd,erd,java
+   key.value: "{22:'Iron Man',44:'Bat Man',66:'Shakti Man'}"
+
+db:
+   name: mysql
+   host: 127.0.0.1
+   port: 8000
+
