@@ -1,4 +1,0 @@
-com\javatechie\aws\lambda\domain\Order.class
-com\javatechie\aws\lambda\SpringbootAwsLambdaApplication.class
-com\javatechie\aws\lambda\controller\OrderController.class
-com\javatechie\aws\lambda\respository\OrderDao.class
